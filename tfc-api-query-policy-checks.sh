@@ -2,7 +2,7 @@
 set -aex
 
 #Use Team Token from TFE/TFC
-export TOKEN=zsb0ElZA77ObYQ.atlasv1.ybVbxoyzFRJvisRdvC9jre7ZhYS2o72tAt8ckz7BrGy4yL5MFvRXLjP8hIrz9yACV5g
+export TOKEN=
 export TFC_ORG_NAME=aharness-org
 
 get_workspaces_result=$(curl \
